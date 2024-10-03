@@ -1,0 +1,51 @@
+p {
+    font-family: Arial;
+}
+.title {
+    font-size: 18px;
+    font-weight: bold;
+    width: 300px;
+    line-height: 25px;
+    margin-bottom: 5px;
+}
+
+.view {
+    font-size:14px;
+    color: rgb(66, 65, 65);
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.name {
+    color:rgb(66, 65, 65);
+    font-size: 14px;
+    margin-top: 15px;
+}
+
+.about {
+    font-size: 14px;
+    color:rgb(66, 65, 65);
+    width: 300px;
+    margin-top: 18px;
+    line-height: 20px;
+}
+
+.apple-text {
+    margin-top: 100px;
+    color: white;
+    background-color: rgb(243, 66, 66);
+    text-align:center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 14px;
+
+}
+
+.Shop {
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+.Shop:hover {
+    text-decoration: underline;
+}

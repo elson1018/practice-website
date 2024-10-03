@@ -1,0 +1,41 @@
+.subscribe {
+    background-color: rgb(157, 25, 25);
+    color: white;
+    border: none;
+    height: 36px;
+    width: 105px;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-right: 8px;
+    transition: box-shadow 0.2s, color 0.2s;
+   }
+    
+        .subscribe:hover {
+         background-color:rgb(56, 56, 185);
+         color: rgb(169, 130, 248);
+         box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+        }
+
+        .subscribe:active {
+         opacity: 0.5;
+        }
+
+   .join {
+    color: blue;
+    background-color: white;
+    border-color: rgb(30, 47, 116);
+    margin-left: 2px;
+    height: 30px;
+    width: 60px;
+    transition: background-color 1s, 
+        color 1s;
+   }
+
+        .join:hover {
+         background-color: rgb(56, 56, 185);
+         color: rgb(178, 178, 228);
+        }
+
+        .join:active{
+         opacity: 0.3;
+        }
